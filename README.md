@@ -56,3 +56,17 @@
 - [Получение данных](subgraph/README.md#%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 - [Ccылки](subgraph/README.md#%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8)
 - [Публичные subgraph](subgraph/README.md#%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B5-subgraph)
+
+#### Термины
+- [Стейблкоины (Stablecoins)](terms/#cтейблкоины)
+- [Пулы ликвидности (Liquidity Pools)](terms/#пулы-ликвидности)
+- [Yield Farming](terms/#yield-farming)
+- [Стейкинг (Staking)](terms/#стейкинг)
+- [Бриджи](terms/#бриджи)
+- [Оракулы](terms/oracles/README.md)
+- [Арбитраж](terms/arbitrage/README.md)
+- [Опционы](terms/options/README.md)
+- [Тестовые сети](terms/#%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5-%D1%81%D0%B5%D1%82%D0%B8)
+- [Модели финансирования криптопроектов ICO/IEO/IDO](terms/ico/README.md)
+- [IPFS](terms/ipfs/README.md)
+- [ERC-20](terms/erc20/README.md)
